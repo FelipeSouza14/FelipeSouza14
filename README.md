@@ -23,9 +23,10 @@ Here are some ideas to get you started:
 <h1></h1>
 
 <div align="center">
-    <!-- <a href="https://github.com/FelipeSouza14">   -->
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeSouza14&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeSouza14&hide=c%2B%2B,cmake,objective-c&layout=compact&langs_count=8&theme=dark"/>
+    <a href="https://github.com/FelipeSouza14">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeSouza14&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeSouza14&hide=c%2B%2B,cmake,objective-c&layout=compact&langs_count=8&theme=radical"/>
+    </a>  
 </div>
 
 <h2>Technologies I Use Frequently</h2>
@@ -40,4 +41,17 @@ Here are some ideas to get you started:
   <img align="center" alt="Felipe-NextJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
   <img align="center" alt="Felipe-Dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" />
   <img align="center" alt="Felipe-Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
+</div>
+<br/>
+<h2>Contact-me</h2>
+<div align="center">
+    <a href="mailto:felipe.dev.2003@gmail.com">
+        <img style="cursor: pointer;" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+    </a>
+    <a href="https://www.instagram.com/felipesouza_bs/">
+        <img style="cursor: pointer;" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+    </a>
+    <a href="https://www.linkedin.com/in/felipe-souza-71a864239/">
+        <img style="cursor: pointer;" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
 </div>
