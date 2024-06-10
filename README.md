@@ -19,7 +19,13 @@ Here are some ideas to get you started:
 
 ### Who am I?
 <h3 style="text-align: justify; padding-bottom: 200px;">I am a Web and Mobile Developer exploring this vast universe of technology, with a huge desire to learn a bit of everything. I am a young aspiring Data Scientist and a Bachelor's student in Information Systems at the Federal University of Rio Grande do Norte (UFRN) in my spare time, haha. Welcome to my profile, enjoy!</h3>
-
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 <h1></h1>
 
 <div align="center">
